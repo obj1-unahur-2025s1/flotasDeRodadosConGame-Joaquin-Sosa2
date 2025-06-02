@@ -1,0 +1,12 @@
+import etapa1RodadosYDependencias.*
+describe "Test con dos Dependencias" {
+    method initialize() {
+        const deportes(empleados = ) = new Dependencia
+        const cultura = new Dependencia
+
+
+    }
+  test "description" {
+    
+  }
+}
